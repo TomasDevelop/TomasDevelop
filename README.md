@@ -8,7 +8,7 @@ I am a frontend developer. I am expanding my knowledge in both front-end and bac
 - 🌱 I’m currently stack and learning new versions ...
   - Nest.js
   - Angular Expert (In progress)
-- 👯 I’m looking forward to collaborate on open source projects.
+- I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="tomasema_martinez@hotmail.com">tomasema_martinez@hotmail.com</a>
